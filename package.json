@@ -1,0 +1,28 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fzl666/TeamProfileGenerator.git"
+  },
+  "author": "Luwenxi Song",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fzl666/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/fzl666/TeamProfileGenerator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
+}
